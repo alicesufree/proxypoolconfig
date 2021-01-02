@@ -1,1 +1,1 @@
-# proxypoolconfig
+# proxypool source.yaml
